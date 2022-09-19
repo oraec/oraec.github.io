@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+The ORAEC project is blogging here.
 
-Maybe say a some things about yourself.
+You wonder who we are and what we do here? Take a look at our first post 😉.
 
-Or maybe what you plan to blog about.
+tl;dr We support Egyptology in digitization, especially in the field of Egyptian texts.
