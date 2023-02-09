@@ -26,7 +26,7 @@ In this context: $N$ is the number of tokens, $V$ the number of types, $V_i$ the
 
 $$ \overline{f} = {N \over V} $$
 
-$$ D^{*} = {{4V_1 - V_2} \over {4V_1 - 2V_2}} $$
+$$ D^{*} = { {4V_1 - V_2} \over {4V_1 - 2V_2} } $$
 
 The smaller S\* is, the greater the lexical richness of a text.
 
