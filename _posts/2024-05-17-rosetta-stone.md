@@ -16,7 +16,7 @@ The project also announces to create a treebank. Let's keep our fingers crossed!
 
 ## The Rosetta Stone Online project
 
-This project is very similar to the one just mentioned. It also has a [visual alignment] (http://rosettastone.hieroglyphic-texts.net/). You can also see which passages belong together! Great! There is no mouseover. Clicking on a passage takes you to a detailed linguistic annotation:
+This project is very similar to the one just mentioned. It also has a [visual alignment](http://rosettastone.hieroglyphic-texts.net/). You can also see which passages belong together! Great! There is no mouseover. Clicking on a passage takes you to a detailed linguistic annotation:
 
 ![Rosetta Stone Online](/img/blog/rosetta_stone_online.jpg "Rosetta Stone Online")
 
