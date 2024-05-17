@@ -10,8 +10,6 @@ The Leipzig based project has published a depth map of the Rosetta Stone and lic
 
 ![Ugarit Alignment](/img/blog/ugarit_rosetta_stone.jpg "Ugarit Alignment")
 
-<iframe src="http://ugarit.ialigner.com/embed.php?id=25717&pb=1&user=0&title=0&pi=0" height="600" width="600"></iframe>
-
 The elements that belong together are highlighted in color: the "ꜥrq.n=f" of the hieroglyphic text corresponds to the "he has completed" of the English translation, but also to the "dꞽ=f mnq=w" of the Demotic and the "ἱδρύσατο" of the Greek. This is a great thing, isn't it? You can find the full synoptic text here: <https://ugarit.ialigner.com/userProfile.php?userid=74&tgid=411>
 
 The project also announces to create a treebank. Let's keep our fingers crossed!
